@@ -1,5 +1,7 @@
 # Cache objects
-packer_cache/
-
-# For built boxes
-*.box
+jackett/
+plex/
+qbittorrent/
+radarr/
+sonarr/
+storage/
