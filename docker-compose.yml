@@ -27,7 +27,7 @@ services:
       - TZ=Europe/London
     volumes:
       - ${PWD}/sonarr/config:/config
-      - ${PWD}/storage/tvseries:/tv #optional
+      - ${PWD}/storage/tv:/tv #optional
       - ${PWD}/storage/downloads:/downloads #optional
     ports:
       - 8989:8989
