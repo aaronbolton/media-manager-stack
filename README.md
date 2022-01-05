@@ -1,6 +1,6 @@
 # Network Based Media Server with full Download Capability and Media Management
 
-Dockerised Containers Used
+Containers Used
 
 Plex - Media Server
 
